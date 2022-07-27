@@ -1,0 +1,7 @@
+/.idea
+/.docker/logs
+/local
+/dist/css
+/dist/js
+/node_modules
+/mix-manifest.json
